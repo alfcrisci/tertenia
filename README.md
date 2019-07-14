@@ -1,6 +1,4 @@
-# tertenia
-repo for tertenia
-INDICAZIONI STRADALI PER LA MARINA DI TERTENIA
+## INDICAZIONI STRADALI PER  MARINA DI TERTENIA
 
 Appena usciti  dalla nave,  ti avvii verso l’uscita del porto seguendo le indicazioni NUORO - NUORO 4 CORSIE. 
 
