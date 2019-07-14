@@ -14,7 +14,8 @@ qui devi uscire alla 2^ uscita del paese, tra l’altro in questo periodo obblig
 Arriverai ad un incrocio e prenderai sulla sinistra (Marina di Tertenia). Percorri circa 8 KM in salita fino ad un valico dove inizierai a vedere il mare.  
 
 Nel primo tratto pianeggiante al termine di questo discesone,  vedrai una casa in pietra sulla destra e li giri subito a destra in usa salita in cemento  che percorri fino al termine della cementificazione, dopo 100 mt. di sterrato riprendi sulla destra e, al termine di una discesa,  entri nel primo cancello (verde) a sinistra.
-Località Marosini prima di Abb eranu.
 
+Località Marosini prima di Abb eranu.
+Geopoint 39.69523, 9.63598
 
 
