@@ -18,5 +18,5 @@ Nel primo tratto pianeggiante al termine di questo discesone,  vedrai una casa i
 Località Marosini prima di Abb eranu.
 Geopoint 39.69523, 9.63598
 
+[Mappa Mobile](https://alfcrisci.github.io/tertenia/mappa.htm).
 
-https://alfcrisci.github.io/tertenia/mappa.htm
