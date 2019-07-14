@@ -19,3 +19,4 @@ Località Marosini prima di Abb eranu.
 Geopoint 39.69523, 9.63598
 
 
+https://alfcrisci.github.io/tertenia/mappa.htm
